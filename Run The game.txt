@@ -1,0 +1,5 @@
+In order to run the game you will need to install the following packages:
+- pygame
+- pickle
+
+after installing the required packages you only need to run the 'Main.py' file and follow the instructions printed on screen.
